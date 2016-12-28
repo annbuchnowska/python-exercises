@@ -10,4 +10,3 @@
 * PythonEx6 - csv
 * PythonEx7 - requests
 
-# python-exercises
